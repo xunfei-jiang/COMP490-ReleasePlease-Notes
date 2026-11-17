@@ -9,4 +9,6 @@ element_wise = a * b
 # Dot product / matrix multiplication: 32
 matrix_mult = a @ b
 
+print matrix_mult
+
 # Add some comments here to test doc
