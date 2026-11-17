@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/compare/v1.1.0...v1.2.0) (2026-11-17)
+
+
+### Features
+
+* Add area and perimeter calculation for rectangle ([f1fec6f](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/commit/f1fec6f7787e88bdf45a304c96453601089dd380))
+
 ## [1.1.0](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/compare/v1.0.0...v1.1.0) (2026-11-17)
 
 
