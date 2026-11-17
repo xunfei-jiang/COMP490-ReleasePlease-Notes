@@ -10,5 +10,6 @@ element_wise = a * b
 matrix_mult = a @ b
 
 print matrix_mult
+print a, b
 
 # Add some comments here to test doc
