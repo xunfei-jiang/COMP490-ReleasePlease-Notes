@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: googleapis/release-please-action@v4
         with:
-          release-type: node
+          release-type: python
           # The short ref name of the branch or tag that triggered
           #  the workflow run. For example, `main` or `1.x`
           target-branch: ${{ github.ref_name }}
