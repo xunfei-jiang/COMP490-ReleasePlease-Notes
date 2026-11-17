@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/compare/v1.0.0...v1.1.0) (2026-11-17)
+
+
+### Features
+
+* Add print statement for matrix multiplication result ([1e67453](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/commit/1e6745328f5c9dec019d03338891c2fdf6786c56))
+
+
+### Bug Fixes
+
+* Add print statement for matrices a and b ([8a3be25](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/commit/8a3be25a4fb2361c74a52a36871841e981817527))
+
 ## 1.0.0 (2026-11-17)
 
 
