@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/compare/v1.2.0...v1.3.0) (2026-11-18)
+
+
+### Features
+
+* Add div_float.py for demonstrating float division ([a13c1f7](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/commit/a13c1f7abad3687482dde02d6b4d9e4e493aa041))
+
 ## [1.2.0](https://github.com/xunfei-jiang/COMP490-ReleasePlease-Notes/compare/v1.1.0...v1.2.0) (2026-11-17)
 
 
